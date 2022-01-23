@@ -7,7 +7,7 @@
 #### Desarrollo
 
 - ⚙️  Tecnologías manejadas:: `Html`, `Css`, `JavaScript`, `Tailwind`, `Node.js`, `Express`, `MongoDB` , `Firebase`, `Next.js`
-- 💅 Me gusta en diseño UX/UI por lo cual estoy en contante aprendizaje sobre las tendencias.
+- 💅 Me gusta el diseño UX/UI por lo cual estoy en contante aprendizaje sobre las tendencias.
 - 🌱 Me gusta aprender e interactuar en proyectos **Open Source**
 
 #### Contacto
