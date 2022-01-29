@@ -2,7 +2,7 @@
 
 ### Soy un desarrollador web con conocimientos en MERN.
 
-### Estudiante de ingeniería de sistemas y desarrollador front-end, me apasiona estar en constante aprendizaje y adquirir habilidades en tecnologías nuevas.
+### Estudiante de ingeniería de sistemas y desarrollador web, me apasiona estar en constante aprendizaje y adquirir habilidades en tecnologías nuevas.
 
 #### Desarrollo
 
