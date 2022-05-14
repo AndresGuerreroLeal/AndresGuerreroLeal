@@ -11,6 +11,6 @@
 
 #### Contacto
 
-- 💬 Linkedin:   https://www.linkedin.com/in/andres-guerrero-5731311ba/
+- 💬 Linkedin:   https://www.linkedin.com/in/andres-guerrero-leal-5731311ba/
 - 📫 Correo:     afguerreroleal12@gmail.com
 - ⚡ Portafolio: https://portafolioandresguerrero.netlify.app/
