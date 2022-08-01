@@ -7,10 +7,9 @@
 #### Desarrollo
 
 - ⚙️  Tecnologías manejadas:: `Html`, `Css`, `JavaScript`, `Tailwind`, `Node.js`, `Express`, `MongoDB` , `Firebase`, `Next.js`
-- 🌱 Me gusta aprender e interactuar en proyectos **Open Source**
 
 #### Contacto
 
 - 💬 Linkedin:   https://www.linkedin.com/in/andres-guerrero-leal-5731311ba/
 - 📫 Correo:     afguerreroleal12@gmail.com
-- ⚡ Portafolio: https://portafolioandresguerrero.netlify.app/
+
